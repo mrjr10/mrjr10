@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Javier Riego
 ====================================================================================================================================
 
-Backend Developer and IT systems administrator
+Fullstack Developer
 ----------------------------------------------
 
 I have been deeply involved in the IT field for over 7 years, consistently expanding my knowledge and honing my skills every day
