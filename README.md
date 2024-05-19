@@ -7,7 +7,6 @@ Full Stack Developer
 I have been deeply involved in the IT field for over 7 years, consistently expanding my knowledge and honing my skills every day
 
 * 🌍  I'm based in Spain
-* ✉️  You can contact me at [javiermahabir@gmail.com](mailto:javiermahabir@gmail.com)
 * 🧠  I'm learning Fastapi, Spring and Devops
 
 ### Skills
