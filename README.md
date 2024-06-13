@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 ----------------------------------------------
 
-I have been deeply involved in the IT field for over 7 years, consistently expanding my knowledge and honing my skills every day
+I have been deeply involved in the IT field for over 2 years, consistently expanding my knowledge and honing my skills every day
 
 * 🌍  I'm based in Spain
 * 🧠  I'm learning Fastapi, Spring and Devops
